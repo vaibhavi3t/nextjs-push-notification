@@ -1,0 +1,33 @@
+{
+  "name": "nextjs-push-notification",
+  "version": "1.0.0",
+  "description": "Push notification in Nextjs app",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.1.1",
+    "react-dom": "^16.10.2",
+    "react": "^16.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhavi3t/nextjs-push-notification.git"
+  },
+  "keywords": [
+    "Nextjs",
+    "PWA",
+    "notification"
+  ],
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhavi3t/nextjs-push-notification/issues"
+  },
+  "homepage": "https://github.com/vaibhavi3t/nextjs-push-notification#readme"
+}
